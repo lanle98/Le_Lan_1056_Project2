@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/*CSS Doc*/
+body
+{
+	background: #464646;
+}
+#siteContainer
+{
+	
+	width: 920px;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	background: #f5f5f5;
+}
+.hidden
+{
+	display: none;
+}
+#mainHeader
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#logo
+{
+	position: absolute;
+	width: 20%;
+}
+#mainContainer
+{
+	padding: 20px;
+
+}
+p
+{
+	font-size: 20px;
+	color: #62e1c1;
+	text-align: justify;
+	font-family: 'Noto Sans', sans-serif;
+}
+.bold
+{
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 2;
+	border-bottom: 1px black;
+
+}
+
+
+#source
+{
+	font-size: 20px;
+	padding-left: 230px;
+}
+h1
+{
+	font-size: 60px;
+	line-height: 1;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-weight: bolder;
+	color: #62e1c1;
+}
+
+#initial
+{
+	font-size: 40px;
+}
+
+#headerImage
+{
+	width: 920px;
+}
+
+#image1
+{
+	float: right;
+	margin: 40px;
+	margin-top: 0;
+}
+
+#image2
+{
+	width: 880px;
+
+}
+
+#imageFlex
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+#textFlex p
+{
+	width: 400px;
+}
+
+#textFlex
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+#mainFooter
+{
+	height: 100px;
+	background: #62e1c1;
+	width: 920px;
+	margin-top: 30px;
+}
