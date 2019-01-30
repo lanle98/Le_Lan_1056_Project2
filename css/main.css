@@ -7,7 +7,7 @@ body
 #siteContainer
 {
 	
-	width: 920px;
+	width: 1024px;
 	margin: 0 auto;
 	display: flex;
 	flex-direction: column;
@@ -54,7 +54,7 @@ p
 #source
 {
 	font-size: 20px;
-	padding-left: 230px;
+	padding-left: 280px;
 }
 h1
 {
@@ -72,7 +72,7 @@ h1
 
 #headerImage
 {
-	width: 920px;
+	width: 1024px;
 }
 
 #image1
@@ -84,7 +84,7 @@ h1
 
 #image2
 {
-	width: 880px;
+	width: 980px;
 
 }
 
@@ -97,7 +97,7 @@ h1
 
 #textFlex p
 {
-	width: 400px;
+	width: 450px;
 }
 
 #textFlex
@@ -110,6 +110,6 @@ h1
 {
 	height: 80px;
 	background: #62e1c1;
-	width: 920px;
+	width: 1024px;
 	margin-top: 30px;
 }
