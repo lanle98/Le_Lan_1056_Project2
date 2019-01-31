@@ -28,9 +28,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body p {
-	line-height: 1.8;
-}
 ol, ul {
 	list-style: none;
 }
